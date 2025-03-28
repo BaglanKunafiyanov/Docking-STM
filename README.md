@@ -110,3 +110,5 @@ Example:
 3. Closed-loop current versus temperature graph.
 4. Filter current measurements (?).
 5. Handle the sensor anomalies.
+
+6. This request is not for the text it is for the code. I kindly ask you to add make udev in makefile because there are two different makefiles and there is no path an destination. Also, I kindly ask you to add assets file in the TAMARIW docking otherwise 'make udev' it does not work.
